@@ -1,0 +1,20 @@
+{"frames": {
+
+"modal_background.png":
+{
+	"frame": {"x":2,"y":2,"w":750,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":600},
+	"sourceSize": {"w":750,"h":600}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "dialog.png",
+	"format": "RGBA8888",
+	"size": {"w":754,"h":604},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:d347d93141fd54aa86eca4eabe15c0f0$"
+}
+}

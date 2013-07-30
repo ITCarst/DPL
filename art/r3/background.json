@@ -1,0 +1,20 @@
+{"frames": {
+
+"stage_border.png":
+{
+	"frame": {"x":0,"y":0,"w":768,"h":1004},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":1004},
+	"sourceSize": {"w":768,"h":1004}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "background.png",
+	"format": "RGBA8888",
+	"size": {"w":768,"h":1004},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3f863b098c271ee20755b4fd5dea7c0$"
+}
+}

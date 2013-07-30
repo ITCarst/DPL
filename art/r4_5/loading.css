@@ -1,0 +1,17 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:c63fd4cf7cbc1422f651290ada12c621$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden;background-size: 605px auto; background-repeat: no-repeat;background-image:url(loading.png);}
+
+.loading_bar_frame {width:512px; height:28px; background-position: -2px -1108px}
+.loading_bar_marker {width:512px; height:28px; background-position: -2px -1048px}
+.logo {width:605px; height:520px; background-position: -2px -2px}

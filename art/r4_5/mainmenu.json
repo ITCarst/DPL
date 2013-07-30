@@ -1,0 +1,20 @@
+{"frames": {
+
+"main_menu.png":
+{
+	"frame": {"x":0,"y":0,"w":1536,"h":2008},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":2008},
+	"sourceSize": {"w":1536,"h":2008}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "mainmenu.png",
+	"format": "RGBA8888",
+	"size": {"w":1536,"h":2008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6ceeddc3aefdfb3a0cacea73d746d8fe$"
+}
+}

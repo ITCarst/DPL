@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<!--[if IEMobile 7 ]> <html class="no-js iem7"> <![endif]-->
+<!--[if (gt IEMobile 7)|!(IEMobile)]><!-->
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <title>Dream Pet Link</title>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black"/>            
+        <meta name="description" content="Dream Pet Link - Go crazy with some cute critter matching mania!">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0"/>
+        <meta http-equiv="cleartype" content="on">
+            
+    	<style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: #144398;
+            padding-bottom: 600px;
+        }
+        #container {
+            position: absolute;
+        }
+@media all and (max-width: 699px) {
+    html,
+    body {
+        background-image: url('art/background-main.jpg');
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size: 340px 570px;
+    }
+}
+@media all and (min-width: 700px) {
+    html,
+    body {
+        background-image: url('art/mainmenu.png');
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size:1080px 1412px;
+    }
+}        
+    </style>
+
+    <script src="code/3rdparty/modernizr.js"></script>
+    <script src="code/3rdparty/helper.js"></script>
+    <script>
+        (function () {
+            MBP.hideUrlBarOnLoad();
+        }());
+    </script>
+</head>
+<body>
+<div id="container"></div>
+<script data-main="code/main.js" src="code/3rdparty/require.js"></script>
+</body>
+</html>
